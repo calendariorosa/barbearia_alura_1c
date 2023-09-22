@@ -1,7 +1,12 @@
 body {
     background: #ccccc;
 }
+#banner {
+    width: 100%;
+}
 p {
     text-align: center;
 }
-
+em strong{
+    color:bisque;
+}
