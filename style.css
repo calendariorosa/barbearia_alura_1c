@@ -3,6 +3,8 @@ body {
 }
 .principal{
 background: #ccccc;
+padding: 30px;
+
 }
 #banner {
     width: 100%;
@@ -12,4 +14,12 @@ p {
 }
 em strong{
     color:bisque;
+}#missao {
+    font-size: 20px;
+    }
+    em strong{
+    color:antiquewhite
+}
+.itens {
+    font-style:italic;
 }
